@@ -3,7 +3,7 @@
 
 ## Скачать
 
-Скачайте последнюю версию приложения: [Release v1.0](https://github.com/w1thoutmates/gennpi/releases/tag/v1.0.)
+Скачайте последнюю версию приложения: [Release v1.0](https://github.com/w1thoutmates/gennpi/releases/tag/main)
 
 ## Установка
 
