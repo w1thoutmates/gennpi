@@ -7,7 +7,7 @@
 
 ## Установка
 
-1. Скачайте последнюю версию приложения из папки [releases](gennp/releases/) или [Release v1.1](https://github.com/w1thoutmates/gennpi/releases/tag/v1.1).
+1. Скачайте последнюю версию приложения из папки [releases](gennpi-v1.1/releases/) или [Release v1.1](https://github.com/w1thoutmates/gennpi/releases/tag/v1.1).
 2. Распакуйте архив `gennpi-v1.1.zip`.
 3. Запустите файл `app.exe`.
 
